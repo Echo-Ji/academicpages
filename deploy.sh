@@ -4,5 +4,5 @@ set -e
 
 git add -A
 git commit -m $1
-
-git push --set-upstream origin gh-pages
+git push 
+# git push --set-upstream origin gh-pages
