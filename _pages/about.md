@@ -31,12 +31,12 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 * **[KDD'22]** Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-Supervised Learning (Acceptance Ratio=25.9%, CCF A)\
 **J. Ji**, J. Wang, J. Wu, B. Han, J. Zhang, and Y. Zheng\
 ACM International Conference on Knowledge Discovery and Data Mining\
-[[pdf](/files/CityShield_KDD22.pdf)][[bib](/files/CityShield_KDD22.txt)][[web](https://dl.acm.org/doi/abs/10.1145/3534678.3539028)]
+[[pdf](https://echo-ji.github.io/academicpages/files/CityShield_KDD22.pdf)][[bib](https://echo-ji.github.io/academicpages/files/CityShield_KDD22.txt)][[web](https://dl.acm.org/doi/abs/10.1145/3534678.3539028)]
 
 * [**ICDM'20**] Interpretable Spatiotemporal Deep Learning Model for Traffic Flow Prediction Based on Potential Energy Fields (Acceptance Ratio=9.9%, CCF B)\
 **J. Ji**, J. Wang, Z. Jiang, J. Ma, and H. Zhang\
 IEEE International Conference on Data Mining\
-[[pdf](/files/STPEF_ICDM20.pdf)][[bib](/files/STPEF_ICDM20.txt)][[web](https://ieeexplore.ieee.org/document/9338315)]
+[[pdf](https://echo-ji.github.io/academicpages/files/STPEF_ICDM20.pdf)][[bib](https://echo-ji.github.io/academicpages/files/STPEF_ICDM20.txt)][[web](https://ieeexplore.ieee.org/document/9338315)]
 
 ## Professional Activities [<u><a href="/service.html">See more</a></u>]
 
