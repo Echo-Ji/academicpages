@@ -21,25 +21,30 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Recent News
 
-* [09/2022] Serve as a PC member for **WSDM 2023**.
+<!-- * [09/2022] Serve as a PC member for **WSDM 2023**. -->
 * [06/2022] One paper is accepted by **ECML/PKDD 2022**.
 * [05/2022] One paper is accepted by **KDD 2022**.
 * [12/2021] One paper is accepted by **AAAI 2022**.
 
-<!-- ## Featured Publication [<u><a href="/contact.html">See more</a></u>]
+## Featured Publications [<u><a href="/publications.html">See more</a></u>]
+
+* **[KDD'22]** Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-Supervised Learning (Acceptance Ratio=25.9%, CCF A)\
+**J. Ji**, J. Wang, J. Wu, B. Han, J. Zhang, Y. Zheng\
+ACM International Conference on Knowledge Discovery and Data Mining\
+[[pdf](/files/CityShield_KDD22.pdf)][[bib](/files/CityShield_KDD22.txt)][[web](https://dl.acm.org/doi/abs/10.1145/3534678.3539028)]
 
 * [**ICDM'20**] Interpretable Spatiotemporal Deep Learning Model for Traffic Flow Prediction Based on Potential Energy Fields (Acceptance Ratio=9.9%, CCF B)\
 **J. Ji**, J. Wang, Z. Jiang, J. Ma, H. Zhang\
 IEEE International Conference on Data Mining\
-[[pdf]()][[bib]()] -->
+[[pdf](/files/STPEF_ICDM20.pdf)][[bib](/files/STPEF_ICDM20.txt)][[web](https://ieeexplore.ieee.org/document/9338315)]
 
-<!-- ## Collaborators
+## Professional Activities [<u><a href="/service.html">See more</a></u>]
 
-I am really honored to work with my best friends (in alphabetical order):
-* [Chao Huang](https://sites.google.com/view/chaoh), University of Hong Kong
-*  -->
+* Journal Reviewer: IEEE TKDE, IEEE T-ITS, ACM TIST, PMC, KNOSYS
 
-## Awards
+* Conference Reviewer: KDD, CIKM, ICDM, AAAI, WSDM
+
+## Honors and Awards
 
 * Huawei Scholarship: 2021
 * CASC Scholarship: 2020
@@ -51,3 +56,9 @@ I am really honored to work with my best friends (in alphabetical order):
 * ASC18 - ASC Student Supercomputer Challenge: the First Prize, 2018
 * COMAP’s Mathematical Contest in Modeling: Meritorious Winner, 2018
 * Merit Student of Beihang University: 2020, 2018, 2017
+
+<!-- ## Collaborators
+
+I am really honored to work with my best friends (in alphabetical order):
+* [Chao Huang](https://sites.google.com/view/chaoh), University of Hong Kong
+*  -->
