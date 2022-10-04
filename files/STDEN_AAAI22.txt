@@ -1,0 +1,9 @@
+@inproceedings{ji2022stden, 
+  title={{STDEN}: Towards physics-guided neural networks for traffic flow prediction}, 
+  author={Ji, Jiahao and Wang, Jingyuan and Jiang, Zhe and Jiang, Jiawei and Zhang, Hu}, 
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  year={2022}, 
+  volume={36}, 
+  number={4},   
+  pages={4048-4056}
+}

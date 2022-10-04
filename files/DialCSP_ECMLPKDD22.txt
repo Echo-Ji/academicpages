@@ -1,0 +1,6 @@
+@inproceedings{wu2022dialcsp,
+  title={{DialCSP}: A Two-stage Attention-based Model for Customer Satisfaction Prediction in E-commerce Customer Service},
+  author={Wu, Zhenhe and Wu, Liangqing and Song, Shuangyong and Ji, Jiahao and Zou, Bo and Li, Zhoujun and He, Xiaodong},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  year={2022},
+}

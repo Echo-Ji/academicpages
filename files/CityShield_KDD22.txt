@@ -1,0 +1,7 @@
+@inproceedings{ji2022precision, 
+  author = {Ji, Jiahao and Wang, Jingyuan and Wu, Junjie and Han, Boyang and Zhang, Junbo and Zheng, Yu},
+  title = {Precision {CityShield} Against Hazardous Chemicals Threats via Location Mining and Self-Supervised Learning},
+  booktitle = {Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year = {2022},
+  pages = {3072–3080}
+}

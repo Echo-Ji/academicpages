@@ -1,0 +1,9 @@
+@inproceedings{ji2020inter,
+  title={Interpretable Spatiotemporal Deep Learning Model for Traffic Flow Prediction Based on Potential Energy Fields}, 
+  author={Ji, Jiahao and Wang, Jingyuan and Jiang, Zhe and Ma, Jingtian and Zhang, Hu},
+  booktitle={2020 IEEE International Conference on Data Mining (ICDM)}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1076-1081}
+}
