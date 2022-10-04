@@ -26,7 +26,7 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 * [05/2022] One paper is accepted by **KDD 2022**.
 * [12/2021] One paper is accepted by **AAAI 2022**.
 
-## Featured Publications [<u><a href="/publications.html">See more</a></u>]
+## Featured Publications [<u><a href="https://echo-ji.github.io/academicpages/publications">See more</a></u>]
 
 * **[KDD'22]** Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-Supervised Learning (Acceptance Ratio=25.9%, CCF A)\
 **J. Ji**, J. Wang, J. Wu, B. Han, J. Zhang, and Y. Zheng\
@@ -38,7 +38,7 @@ ACM International Conference on Knowledge Discovery and Data Mining\
 IEEE International Conference on Data Mining\
 [[pdf](https://echo-ji.github.io/academicpages/files/STPEF_ICDM20.pdf)][[bib](https://echo-ji.github.io/academicpages/files/STPEF_ICDM20.txt)][[web](https://ieeexplore.ieee.org/document/9338315)]
 
-## Professional Activities [<u><a href="/service.html">See more</a></u>]
+## Professional Activities [<u><a href="https://echo-ji.github.io/academicpages/service">See more</a></u>]
 
 * Journal Reviewer: IEEE TKDE, IEEE T-ITS, ACM TIST, PMC, KNOSYS
 
