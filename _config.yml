@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiahao Ji | Beihang U."
+title                    : "Jiahao JI | Beihang U."
 title_separator          : "-"
-name                     : &name "Jiahao Ji"
+name                     : &name "Jiahao JI"
 description              : &description "personal description"
 url                      : "https://echo-ji.github.io/academicpages" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

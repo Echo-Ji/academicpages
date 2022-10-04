@@ -27,6 +27,23 @@ AAAI Conference on Artificial Intelligence\
 IEEE International Conference on Data Mining\
 [[pdf]()][[bib]()]
 
+<!-- <details>
+<summary>bib</summary>
+
+```
+@inproceedings{ji2022stden, 
+  title={{STDEN}: Towards physics-guided neural networks for traffic flow prediction}, 
+  author={Ji, Jiahao and Wang, Jingyuan and Jiang, Zhe and Jiang, Jiawei and Zhang, Hu}, 
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  year={2022}, 
+  volume={36}, 
+  number={4},   
+  pages={4048-4056}
+}
+```
+</details> -->
+
+
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
