@@ -22,9 +22,10 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 ## Recent News
 
 <!-- * [09/2022] Serve as a PC member for **WSDM 2023**. -->
+* [11/2022] One paper is accepted by **IEEE TKDE 2022**.
 * [06/2022] One paper is accepted by **ECML/PKDD 2022**.
 * [05/2022] One paper is accepted by **KDD 2022**.
-* [12/2021] One paper is accepted by **AAAI 2022**.
+<!-- * [12/2021] One paper is accepted by **AAAI 2022**. -->
 
 ## Featured Publications [<u><a href="https://echo-ji.github.io/academicpages/publications">See more</a></u>]
 

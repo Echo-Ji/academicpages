@@ -13,6 +13,12 @@ The publications below are listed in chronological order. You can also find my a
 
 ### <u>In the year of 2022</u> 
 
+* **[TKDE'22]** Traffic Flow Prediction Based on
+Spatiotemporal Potential Energy Fields (IF=6.977, CCF A)\
+J. Wang, **J. Ji**, Z. Jiang, L. Sun\
+IEEE Transactions on Knowledge and Data Engineering\
+[[pdf](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.pdf)][[bib](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.txt)][[web]()]
+
 * **[ECML/PKDD'22]** DialCSP: A Two-stage Attention-based Model for Customer Satisfaction Prediction in E-commerce Customer Service (Acceptance Ratio=26.0%, CCF B)\
 Z. Wu, L. Wu, S. Song, **J. Ji**, B. Zou, Z. Li, and X. He\
 European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases\
