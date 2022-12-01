@@ -1,0 +1,6 @@
+@inproceedings{ji2023modeling, 
+  title={Modeling Spatio-Temporal Heterogeneity for Traffic Flow Prediction via Self-Supervised Learning}, 
+  author={Ji, Jiahao and Wang, Jingyuan and Huang, Chao and Wu, Junjie and Xu, Boren and Wu, Zhenhe and Zhang Junbo and Zheng, Yu}, 
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+  year={2023}
+}
