@@ -48,10 +48,10 @@ IEEE International Conference on Data Mining\
 
 ## Honors and Awards
 
+* CETC The 14TH Research Institute Glarun Scholarship: 2022, 2020
+* Scholarships for Postgraduate Studies (four times for the First Prize): 2022, 2021, 2020, 2019
 * Huawei Scholarship: 2021
 * CASC Scholarship: 2020
-* CETC The 14TH Research Institute Glarun Scholarship: 2020
-* Scholarships for Postgraduate Studies (four times for the First Prize): 2022, 2021, 2020, 2019
 * Outstanding Freshman Scholarship: 2019
 * National Scholarship for Encouragement: 2018, 2017, 2016
 * MIIT Innovation and Entrepreneurship Scholarship: 2018
