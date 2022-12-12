@@ -12,7 +12,7 @@ The publications below are listed in chronological order. You can also find my a
 <!-- * indicates corresponding author, + indicates supervised student -->
 ### <u>In the year of 2023</u> 
 
-* [**AAAI'23**] Modeling Spatio-Temporal Heterogeneity for Traffic Flow Prediction via Self-Supervised Learning (Acceptance Ratio=19.6%, CCF A)\
+* **[AAAI'23]** Modeling Spatio-Temporal Heterogeneity for Traffic Flow Prediction via Self-Supervised Learning (Acceptance Ratio=19.6%, CCF A)\
 **J. Ji**, J. Wang, C. Huang, J. Wu, B. Xu, Z. Wu, J. Zhang and Y. Zheng\
 AAAI Conference on Artificial Intelligence\
 [[pdf](https://echo-ji.github.io/academicpages/files/HeST_AAAI23.pdf)][[code](https://github.com/Echo-Ji/HeST)][[bib](https://echo-ji.github.io/academicpages/files/HeST_AAAI23.txt)][[web]()]
