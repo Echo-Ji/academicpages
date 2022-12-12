@@ -12,15 +12,14 @@ The publications below are listed in chronological order. You can also find my a
 <!-- * indicates corresponding author, + indicates supervised student -->
 ### <u>In the year of 2023</u> 
 
-* **[AAAI'23]** Modeling Spatio-Temporal Heterogeneity for Traffic Flow Prediction via Self-Supervised Learning (Acceptance Ratio=19.6%, CCF A)\
+* **[AAAI'23]** Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction (Acceptance Ratio=19.6%, CCF A)\
 **J. Ji**, J. Wang, C. Huang, J. Wu, B. Xu, Z. Wu, J. Zhang and Y. Zheng\
 AAAI Conference on Artificial Intelligence\
-[[pdf](https://echo-ji.github.io/academicpages/files/HeST_AAAI23.pdf)][[code](https://github.com/Echo-Ji/HeST)][[bib](https://echo-ji.github.io/academicpages/files/HeST_AAAI23.txt)][[web]()]
+[[pdf](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.pdf)][[code](https://github.com/Echo-Ji/ST-SSL)][[bib](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.txt)][[web]()]
 
 ### <u>In the year of 2022</u> 
 
-* **[TKDE'22]** Traffic Flow Prediction Based on
-Spatiotemporal Potential Energy Fields (IF=6.977, CCF A)\
+* **[TKDE'22]** Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields (IF=6.977, CCF A)\
 J. Wang, **J. Ji**, Z. Jiang, L. Sun\
 IEEE Transactions on Knowledge and Data Engineering\
 [[pdf](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.pdf)][[bib](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.txt)][[web](https://ieeexplore.ieee.org/document/9944966)]
