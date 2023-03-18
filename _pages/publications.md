@@ -19,7 +19,7 @@ AAAI Conference on Artificial Intelligence\
 
 ### <u>In the year of 2022</u> 
 
-* **[TKDE'22]** Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields (IF=6.977, CCF A)\
+* **[TKDE'22]** Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields (IF=9.235, CCF A)\
 J. Wang, **J. Ji**, Z. Jiang, L. Sun\
 IEEE Transactions on Knowledge and Data Engineering\
 [[pdf](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.pdf)][[bib](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.txt)][[web](https://ieeexplore.ieee.org/document/9944966)]
