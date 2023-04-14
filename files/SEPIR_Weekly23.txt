@@ -1,0 +1,10 @@
+@article{wang2023high,
+  title={High-Resolution Data on Human Behavior for Effective COVID-19 Policy-Making—Wuhan City, Hubei Province, China, January 1--February 29, 2020},
+  author={Wang, Jingyuan and Shi, Honghao and Ji, Jiahao and Lin, Xin and Tian, Huaiyu},
+  journal={China CDC Weekly},
+  volume={5},
+  number={4},
+  pages={76--81},
+  year={2023},
+  publisher={China CDC Weekly}
+}

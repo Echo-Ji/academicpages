@@ -12,10 +12,17 @@ The publications below are listed in chronological order. You can also find my a
 <!-- * indicates corresponding author, + indicates supervised student -->
 ### <u>In the year of 2023</u> 
 
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9902759/
+* **[Weekly'23]** High-Resolution Data on Human Behavior for Effective COVID-19 Policy-Making — Wuhan City, Hubei Province, China, January 1–February 29, 2020 (SCI)\
+J. Wang, H. Shi, **J. Ji**, X. Lin, H. Tian\
+China CDC Weekly\
+[[pdf](https://echo-ji.github.io/academicpages/files/SEPIR_Weekly23.pdf)][[bib](https://echo-ji.github.io/academicpages/files/SEPIR_Weekly23.txt)][[web](https://pubmed.ncbi.nlm.nih.gov/36777900/)]
+
+
 * **[AAAI'23]** Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction (Acceptance Ratio=19.6%, CCF A)\
 **J. Ji**, J. Wang, C. Huang, J. Wu, B. Xu, Z. Wu, J. Zhang and Y. Zheng\
 AAAI Conference on Artificial Intelligence\
-[[pdf](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.pdf)][[code](https://github.com/Echo-Ji/ST-SSL)][[bib](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.txt)][[web]()]
+[[pdf](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.pdf)][[code](https://github.com/Echo-Ji/ST-SSL)][[bib](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.txt)][[web](https://arxiv.org/abs/2212.04475)]
 
 ### <u>In the year of 2022</u> 
 
