@@ -40,7 +40,7 @@ J. Wang, **J. Ji**, Z. Jiang, L. Sun\
 IEEE Transactions on Knowledge and Data Engineering\
 [[pdf](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.pdf)][[bib](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.txt)][[web](https://ieeexplore.ieee.org/document/9944966)]
 
-* **[KDD'22]** Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-Supervised Learning (Acceptance Ratio=25.9%, CCF A)\
+* **[KDD'22]** Precision CityShield Against Hazardous Chemicals Threats via Location Mining and Self-Supervised Learning (Acceptance Ratio=25.9%, **CCF A**)\
 **J. Ji**, J. Wang, J. Wu, B. Han, J. Zhang, and Y. Zheng\
 ACM International Conference on Knowledge Discovery and Data Mining\
 [[pdf](https://echo-ji.github.io/academicpages/files/CityShield_KDD22.pdf)][[bib](https://echo-ji.github.io/academicpages/files/CityShield_KDD22.txt)][[web](https://dl.acm.org/doi/abs/10.1145/3534678.3539028)]
