@@ -22,7 +22,7 @@ China CDC Weekly\
 * **[AAAI'23]** Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction (Acceptance Ratio=19.6%, **CCF A**)\
 **J. Ji**, J. Wang, C. Huang, J. Wu, B. Xu, Z. Wu, J. Zhang and Y. Zheng\
 AAAI Conference on Artificial Intelligence\
-[[pdf](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.pdf)][[code](https://github.com/Echo-Ji/ST-SSL)][[bib](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.txt)][[web](https://arxiv.org/abs/2212.04475)]
+[[pdf](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.pdf)][[code](https://github.com/Echo-Ji/ST-SSL)][[bib](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.txt)][[media](https://mp.weixin.qq.com/s/rMNsqYyfoeoysZxeVabh4w)][[web](https://ojs.aaai.org/index.php/AAAI/article/view/25555)]
 
 ### <u>In the year of 2022</u> 
 
