@@ -1,0 +1,6 @@
+@inproceedings{wu2023enhancing,
+  title={Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning},
+  author={Wu, Zhenhe and Yu, Xiaoguang and Chen, Meng and Wu, Liangqing and Ji, Jiahao and Li, Zhoujun}
+  booktitle = {Proceedings of the 24th INTERSPEECH Conference},
+  year = {2023}
+}
