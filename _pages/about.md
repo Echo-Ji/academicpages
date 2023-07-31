@@ -65,7 +65,7 @@ AAAI Conference on Artificial Intelligence\
 * CASC Scholarship: 2020
 * Outstanding Freshman Scholarship: 2019
 * National Scholarship for Encouragement: 2018, 2017, 2016
-* MIIT Innovation and Entrepreneurship Scholarship: 2018
+* MIIT Innovation and Entrepreneurship Scholarship: 2019
 * ASC18 - ASC Student Supercomputer Challenge: the First Prize, 2018
 * COMAP’s Mathematical Contest in Modeling: Meritorious Winner, 2018
 * Merit Student of Beihang University: 2020, 2018, 2017
