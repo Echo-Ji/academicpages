@@ -14,7 +14,7 @@ The publications below are listed in chronological order. You can also find my a
 
 1. **[Interspeech'23]** Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning (CCF C, Core Rank A)\
 Z. Wu, X. Yu, M. Chen, L. Wu, **J. Ji**, and Z. Li\
-China CDC Weekly\
+INTERSPEECH Conference\
 [[pdf](https://echo-ji.github.io/academicpages/files/NID_IS23.pdf)][[bib](https://echo-ji.github.io/academicpages/files/NID_IS23.txt)]
 
 2. **[Weekly'23]** High-Resolution Data on Human Behavior for Effective COVID-19 Policy-Making — Wuhan City, Hubei Province, China, January 1–February 29, 2020 (SCI)\

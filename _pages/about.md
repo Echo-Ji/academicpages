@@ -53,14 +53,15 @@ AAAI Conference on Artificial Intelligence\
 
 ## Professional Activities [<u><a href="https://echo-ji.github.io/academicpages/service">See more</a></u>]
 
-* Journal Reviewer: IEEE TKDE, IEEE T-ITS, ACM TIST, PMC, KNOSYS
+* Journal Reviewer: IEEE TKDE, IEEE T-ITS, ACM TIST, PMC, KNOSYS, TR_C
 
 * Conference Reviewer: KDD, CIKM, ICDM, AAAI, WSDM
 
 ## Honors and Awards
 
+* National Scholarship: 2023
 * CETC The 14TH Research Institute Glarun Scholarship: 2022, 2020
-* Scholarships for Postgraduate Studies (four times for the First Prize): 2022, 2021, 2020, 2019
+* Scholarships for Postgraduate Studies (five times for the First Prize): 2023, 2022, 2021, 2020, 2019
 * Huawei Scholarship: 2021
 * CASC Scholarship: 2020
 * Outstanding Freshman Scholarship: 2019
@@ -68,7 +69,7 @@ AAAI Conference on Artificial Intelligence\
 * MIIT Innovation and Entrepreneurship Scholarship: 2019
 * ASC18 - ASC Student Supercomputer Challenge: the First Prize, 2018
 * COMAP’s Mathematical Contest in Modeling: Meritorious Winner, 2018
-* Merit Student of Beihang University: 2020, 2018, 2017
+* Merit Student of Beihang University: 2022, 2020, 2018, 2017
 
 <!-- ## Collaborators
 
