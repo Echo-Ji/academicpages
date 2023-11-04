@@ -8,9 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Jiahao JI is a Ph.D. candidate at the School of Computer Science and Engineering, Beihang University, China, supervised by Prof. [Jingyuan Wang](https://www.bigscity.com/jingyuan-wang/). In February 2021, he participated in the joint doctoral training program of JD Intelligent Cities Research, supervised by Prof. [Yu Zheng](http://urban-computing.com/yuzheng) and Dr. [Junbo Zhang](https://zhangjunbo.org/). He received his B.S from Beihang University in 2019. He is a visiting scholar at Nanyang Technological University, Singapore, supervised by Prof. [Cheng Long](https://personal.ntu.edu.sg/c.long/index.html).
+Jiahao JI is a Ph.D. candidate at the School of Computer Science and Engineering, Beihang University, China, supervised by Prof. [Jingyuan Wang](https://www.bigscity.com/jingyuan-wang/). He received his B.S from Beihang University in 2019.
 
-I am currently seeking for job opportunities. If you are interested in my research or hiring me, please feel free to <u><a href="/contact">contact me</a></u>.
+Since February 2023, he is a visiting scholar at Nanyang Technological University, Singapore, supervised by Prof. [Cheng Long](https://personal.ntu.edu.sg/c.long/index.html).
+From March 2021 to January 2023, he participated in the joint doctoral training program of JD Intelligent Cities Research, supervised by Prof. [Yu Zheng](http://urban-computing.com/yuzheng) and Dr. [Junbo Zhang](https://zhangjunbo.org/).  
+
+He is currently seeking for job opportunities. If you are interested in his research, please feel free to <u><a href="/contact">contact him</a></u>.
 
 ## Research Interests
 

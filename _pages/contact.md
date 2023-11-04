@@ -10,7 +10,8 @@ Contact information is below, including email and various web services. This is 
 
 <!-- * Email: jiahaoji@buaa.edu.cn -->
 * Email: bh1506jjh@163.com
-* Wechat: jiahao-echo
+* Linkedin: [Jiahao Ji](https://www.linkedin.com/in/jiahao-ji-973257146/)
+* Wechat: jijiahao-echo
 * ORCID: [0000-0003-3029-2262](https://orcid.org/0000-0003-3029-2262)
 * Google Scholar: [author: jiahao ji](https://scholar.google.com/citations?user=OkiBEBgAAAAJ)
 * DBLP: [person: jiahao ji](https://dblp.org/pid/266/2156.html)
