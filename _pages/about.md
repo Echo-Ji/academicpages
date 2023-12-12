@@ -13,7 +13,7 @@ Jiahao JI is a Ph.D. candidate at the School of Computer Science and Engineering
 Since February 2023, he is a visiting scholar at Nanyang Technological University, Singapore, supervised by Prof. [Cheng Long](https://personal.ntu.edu.sg/c.long/index.html).
 From March 2021 to January 2023, he participated in the joint doctoral training program of JD Intelligent Cities Research, supervised by Prof. [Yu Zheng](http://urban-computing.com/yuzheng) and Dr. [Junbo Zhang](https://zhangjunbo.org/).  
 
-He is currently seeking for job opportunities. If you are interested in his research, please feel free to <u><a href="/contact">contact him</a></u>.
+<!-- He is currently seeking for job opportunities. If you are interested in his research, please feel free to <u><a href="/contact">contact him</a></u>. -->
 
 ## Research Interests
 
