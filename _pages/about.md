@@ -24,9 +24,12 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Recent News
 
+* [12/2023] Our paper [Self-Supervised Deconfounding Against Spatio-Temporal Shifts: Theory and Modeling](https://arxiv.org/pdf/2311.12472.pdf) is now on arxiv.
+* [10/2023] Our paper [Multi-Factor Spatio-Temporal Prediction based on Graph Decomposition Learning](https://arxiv.org/pdf/2310.10374.pdf) is now on arxiv.
+
+<!-- * [11/2022] One paper is accepted by **AAAI 2023**.
+* [11/2022] One paper is accepted by **IEEE TKDE 2022**. -->
 <!-- * [09/2022] Serve as a PC member for **WSDM 2023**. -->
-* [11/2022] One paper is accepted by **AAAI 2023**.
-* [11/2022] One paper is accepted by **IEEE TKDE 2022**.
 <!-- * [06/2022] One paper is accepted by **ECML/PKDD 2022**. -->
 <!-- * [05/2022] One paper is accepted by **KDD 2022**. -->
 <!-- * [12/2021] One paper is accepted by **AAAI 2022**. -->
