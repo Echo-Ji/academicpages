@@ -10,9 +10,16 @@ redirect_from:
 The publications below are listed in chronological order. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=OkiBEBgAAAAJ).
 
 <!-- * indicates corresponding author, + indicates supervised student -->
+### <u>In the year of 2024</u>
+
+1. **[ICLR'24]** AirPhyNet: Harnessing Physics-Guided Neural Networks for Air Quality Prediction (Acceptance Ratio=31%, **CORE Rank A\***)\
+K. Hettige, **J. Ji**, S. Xiang, C. Long, G. Cong, J. Wang\
+International Conference on Learning Representations\
+[[pdf](https://echo-ji.github.io/academicpages/files/AirPhyNet_ICLR24.pdf)][[code](https://github.com/kethmih/AirPhyNet)][[bib](https://echo-ji.github.io/academicpages/files/AirPhyNet_ICLR24.txt)]
+
 ### <u>In the year of 2023</u> 
 
-1. **[Interspeech'23]** Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning (CCF C, Core Rank A)\
+2. **[Interspeech'23]** Enhancing New Intent Discovery via Robust Neighbor-based Contrastive Learning (CCF C, Core Rank A)\
 Z. Wu, X. Yu, M. Chen, L. Wu, **J. Ji**, and Z. Li\
 INTERSPEECH Conference\
 [[pdf](https://echo-ji.github.io/academicpages/files/NID_IS23.pdf)][[bib](https://echo-ji.github.io/academicpages/files/NID_IS23.txt)]
