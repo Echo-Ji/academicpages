@@ -24,14 +24,18 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Recent News
 
+* [05/2024] I was nominated for the Beihang Youth May Fourth Medal.
+
+* [01/2024] I was awarded with Discovery Scholarship (only 2 in SCSE of Beihang U.).
+ 
 * [01/2024] Our [paper](https://openreview.net/forum?id=JW3jTjaaAB) for physics-informed neural network was accepted by ICLR 2024.
 
 * [12/2023] Our paper [Self-Supervised Deconfounding Against Spatio-Temporal Shifts: Theory and Modeling](https://arxiv.org/pdf/2311.12472.pdf) is now on arxiv.
 <!-- * [10/2023] Our paper [Multi-Factor Spatio-Temporal Prediction based on Graph Decomposition Learning](https://arxiv.org/pdf/2310.10374.pdf) is now on arxiv. -->
 * [09/2023] I was awarded with National PhD Scholarship.
   
-<!-- * [11/2022] One paper is accepted by **AAAI 2023**.
-* [11/2022] One paper is accepted by **IEEE TKDE 2022**. -->
+<!-- * [11/2022] One paper is accepted by **AAAI 2023**. -->
+<!-- * [11/2022] One paper is accepted by **IEEE TKDE 2022**.  -->
 <!-- * [09/2022] Serve as a PC member for **WSDM 2023**. -->
 <!-- * [06/2022] One paper is accepted by **ECML/PKDD 2022**. -->
 <!-- * [05/2022] One paper is accepted by **KDD 2022**. -->
