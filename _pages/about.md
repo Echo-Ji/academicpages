@@ -24,6 +24,8 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Recent News
 
+* [06/2024] I obtain the Beihang Top-10 PhD Students Award.
+
 * [05/2024] I was nominated for the Beihang Youth May Fourth Medal.
 
 * [01/2024] I was awarded with Discovery Scholarship (only 2 in SCSE of Beihang U.).
