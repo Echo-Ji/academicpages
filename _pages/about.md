@@ -10,7 +10,7 @@ redirect_from:
 
 Jiahao JI is a Ph.D. candidate at the School of Computer Science and Engineering, Beihang University, China, supervised by Prof. [Jingyuan Wang](https://www.bigscity.com/jingyuan-wang/). He received his B.S from Beihang University in 2019.
 
-From February 2023 to January 2024, he is a visiting scholar at Nanyang Technological University, Singapore, supervised by Prof. [Cheng Long](https://personal.ntu.edu.sg/c.long/index.html).
+From February 2023 to January 2024, he was a visiting scholar at Nanyang Technological University, Singapore, supervised by Prof. [Cheng Long](https://personal.ntu.edu.sg/c.long/index.html).
 From March 2021 to January 2023, he participated in the joint doctoral training program of JD Intelligent Cities Research, supervised by Prof. [Yu Zheng](http://urban-computing.com/yuzheng) and Dr. [Junbo Zhang](https://zhangjunbo.org/).  
 
 <!-- He is currently seeking for job opportunities. If you are interested in his research, please feel free to <u><a href="/contact">contact him</a></u>. -->
@@ -34,7 +34,7 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 * [12/2023] Our paper [Self-Supervised Deconfounding Against Spatio-Temporal Shifts: Theory and Modeling](https://arxiv.org/pdf/2311.12472.pdf) is now on arxiv.
 <!-- * [10/2023] Our paper [Multi-Factor Spatio-Temporal Prediction based on Graph Decomposition Learning](https://arxiv.org/pdf/2310.10374.pdf) is now on arxiv. -->
-* [09/2023] I was awarded with National PhD Scholarship.
+* [09/2023] I was awarded with National PhD Scholarship (Top 0.2%).
   
 <!-- * [11/2022] One paper is accepted by **AAAI 2023**. -->
 <!-- * [11/2022] One paper is accepted by **IEEE TKDE 2022**.  -->
