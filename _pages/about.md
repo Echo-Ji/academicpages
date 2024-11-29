@@ -24,11 +24,13 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Recent News
 
-* [06/2024] I obtain the Beihang Top-10 PhD Students Award.
+* [11/2024] One paper is accepted by KDD 2025.
+
+* [06/2024] I obtain the [Beihang Top-10 PhD Students Award](https://mp.weixin.qq.com/s/GNn_uyn2i0V9zuKqGeqaDA).
 
 * [05/2024] I was nominated for the Beihang Youth May Fourth Medal.
 
-* [01/2024] I was awarded with Discovery Scholarship (only 2 in SCSE of Beihang U.).
+* [01/2024] I was awarded with Discovery Scholarship (2 in SCSE of Beihang U.).
  
 * [01/2024] Our [paper](https://openreview.net/forum?id=JW3jTjaaAB) for physics-informed neural network was accepted by ICLR 2024.
 
@@ -74,9 +76,13 @@ AAAI Conference on Artificial Intelligence\
 
 ## Honors and Awards
 
-* National Scholarship: 2023
+
+* [Beihang Top-10 PhD Students Award](https://mp.weixin.qq.com/s/GNn_uyn2i0V9zuKqGeqaDA): 2024
+* Beihang Youth May Fourth Medal Nomination (11 people in Beihang U.): 2024
+* Discovery Scholarship (2 in SCSE of Beihang U.): 2024
+* China National Scholarship: 2023
 * CETC The 14TH Research Institute Glarun Scholarship: 2022, 2020
-* Scholarships for Postgraduate Studies (five times for the First Prize): 2023, 2022, 2021, 2020, 2019
+* Scholarships for Postgraduate Studies (5 times for the First Prize): 2023, 2022, 2021, 2020, 2019
 * Huawei Scholarship: 2021
 * CASC Scholarship: 2020
 * Outstanding Freshman Scholarship: 2019
