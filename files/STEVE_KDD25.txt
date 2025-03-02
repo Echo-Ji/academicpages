@@ -1,0 +1,7 @@
+@inproceedings{ji2025seeing,
+    title={Seeing the Unseen: Learning Basis Confounder Representations for Robust Traffic Prediction}, 
+    author={Jiahao Ji and Wentao Zhang and Jingyuan Wang and Chao Huang},
+    booktitle = {Proceedings of the ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  year = {2025},
+  pages = {1–12}
+}

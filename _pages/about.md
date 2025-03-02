@@ -24,7 +24,9 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Recent News
 
-* [11/2024] One paper is accepted by KDD 2025.
+* [11/2024] [One paper](https://arxiv.org/abs/2502.10038) about LLM enhanced POI representation learning is accepted by AAAI 2025.
+
+* [11/2024] [One paper](https://arxiv.org/abs/2311.12472) about causal inference and spatio-temporal prediction is accepted by KDD 2025.
 
 * [06/2024] I obtain the [Beihang Top-10 PhD Students Award](https://mp.weixin.qq.com/s/GNn_uyn2i0V9zuKqGeqaDA).
 
