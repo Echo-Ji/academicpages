@@ -70,9 +70,9 @@ AAAI Conference on Artificial Intelligence\
 
 ## Professional Activities [<u><a href="https://echo-ji.github.io/academicpages/service">See more</a></u>]
 
-* Journal Reviewer: IEEE TKDE, IEEE T-ITS, ACM TIST, PMC, KNOSYS, TR_C
+* Journal Reviewer: IEEE TKDE, IEEE ITS, ACM CSUR, ACM TIST, PMC, KBS, TRC, JCIT
 
-* Conference Reviewer: KDD, CIKM, ICDM, AAAI, WSDM
+* Conference Reviewer: KDD, WWW, AAAI, CIKM, ICDM, SDM
 
 ## Honors and Awards
 
