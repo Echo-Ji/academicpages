@@ -1,9 +1,7 @@
-@inproceedings{ji2023modeling, 
+@inproceedings{ji2023spatio, 
   title={Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction}, 
   author={Ji, Jiahao and Wang, Jingyuan and Huang, Chao and Wu, Junjie and Xu, Boren and Wu, Zhenhe and Zhang Junbo and Zheng, Yu}, 
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-  volume={37},
-  number={4},
+  booktitle={Proceedings of the 37th AAAI Conference on Artificial Intelligence}, 
   pages={4356-4364},
   year={2023}
 }

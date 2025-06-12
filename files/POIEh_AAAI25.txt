@@ -1,6 +1,7 @@
 @inproceedings{cheng2025poi,
-  title={POI-Enhancer: An LLM-based Semantic Enhancement Framework for POI Representation Learning},
+  title={{POI-Enhancer: An LLM-based} Semantic Enhancement Framework for POI Representation Learning},
   author={Cheng, Jiawei and Wang, Jingyuan and Zhang, Yichuan and Ji, Jiahao and Zhu, Yuanshao and Zhang, Zhibo and Zhao, Xiangyu},
-booktitle={Proceedings of the AAAI Conference on Artificial Intelligence}, 
-  year={2025}
+  booktitle={Proceedings of the 39th AAAI Conference on Artificial Intelligence}, 
+  year={2025},
+  pages={11509--11517}
 }

@@ -24,21 +24,23 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Recent News
 
+* [06/2025] I was recognized as an [Excellent Reviewer for KDD](https://kdd2025.kdd.org/research-track-program-committee/#august_cycle).
+
 * [11/2024] [One paper](https://arxiv.org/abs/2502.10038) about LLM enhanced POI representation learning is accepted by AAAI 2025.
 
 * [11/2024] [One paper](https://arxiv.org/abs/2311.12472) about causal inference and spatio-temporal prediction is accepted by KDD 2025.
 
 * [06/2024] I obtain the [Beihang Top-10 PhD Students Award](https://mp.weixin.qq.com/s/GNn_uyn2i0V9zuKqGeqaDA).
 
-* [05/2024] I was nominated for the Beihang Youth May Fourth Medal.
+<!-- * [05/2024] I was nominated for the Beihang Youth May Fourth Medal. -->
 
-* [01/2024] I was awarded with Discovery Scholarship (2 in SCSE of Beihang U.).
+<!-- * [01/2024] I was awarded with Discovery Scholarship (2 in SCSE of Beihang U.). -->
  
-* [01/2024] Our [paper](https://openreview.net/forum?id=JW3jTjaaAB) for physics-informed neural network was accepted by ICLR 2024.
+<!-- * [01/2024] Our [paper](https://openreview.net/forum?id=JW3jTjaaAB) for physics-informed neural network was accepted by ICLR 2024. -->
 
-* [12/2023] Our paper [Self-Supervised Deconfounding Against Spatio-Temporal Shifts: Theory and Modeling](https://arxiv.org/pdf/2311.12472.pdf) is now on arxiv.
+<!-- * [12/2023] Our paper [Self-Supervised Deconfounding Against Spatio-Temporal Shifts: Theory and Modeling](https://arxiv.org/pdf/2311.12472.pdf) is now on arxiv. -->
 <!-- * [10/2023] Our paper [Multi-Factor Spatio-Temporal Prediction based on Graph Decomposition Learning](https://arxiv.org/pdf/2310.10374.pdf) is now on arxiv. -->
-* [09/2023] I was awarded with National PhD Scholarship (Top 0.2%).
+<!-- * [09/2023] I was awarded with National PhD Scholarship (Top 0.2%). -->
   
 <!-- * [11/2022] One paper is accepted by **AAAI 2023**. -->
 <!-- * [11/2022] One paper is accepted by **IEEE TKDE 2022**.  -->
@@ -48,6 +50,11 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 <!-- * [12/2021] One paper is accepted by **AAAI 2022**. -->
 
 ## Featured Publications [<u><a href="https://echo-ji.github.io/academicpages/publications">See more</a></u>]
+
+* **[KDD'25]** Seeing the Unseen: Learning Basis Confounder Representations for Robust Traffic Prediction (Acceptance Ratio=19%, **CCF A**)\
+**J. Ji**, W. Zhang, J. Wang, and C. Huang\
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining\
+[[pdf](https://echo-ji.github.io/academicpages/files/STEVE_KDD25.pdf)][[code](https://github.com/bigscity/STEVE_CODE)][[bib](https://echo-ji.github.io/academicpages/files/STEVE_KDD25.txt)][[web](https://arxiv.org/abs/2311.12472)]
 
 * **[AAAI'23]** Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction (Acceptance Ratio=19.6%, **CCF A**)\
 **J. Ji**, J. Wang, C. Huang, J. Wu, B. Xu, Z. Wu, J. Zhang and Y. Zheng\
