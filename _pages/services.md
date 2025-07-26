@@ -9,7 +9,7 @@ redirect_from:
 
 ## Conference Reviewer
 
-* 2025: KDD
+* 2025: KDD, NeurIPS, AAAI
 * 2024: KDD, ICDM, CIKM, WWW
 * 2023: KDD, CIKM, ICDM, SIGSPATIAL, SDM, WWW, ICDE, VLDB 
 * 2022: KDD, CIKM, ICDM, AAAI
