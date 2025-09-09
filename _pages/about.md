@@ -8,12 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-Jiahao JI is a Ph.D. candidate at the School of Computer Science and Engineering, Beihang University, China, supervised by Prof. [Jingyuan Wang](https://www.bigscity.com/jingyuan-wang/). He received his B.S from Beihang University in 2019.
+<!-- Jiahao JI is a Ph.D. candidate at the School of Computer Science and Engineering, Beihang University, China, supervised by Prof. [Jingyuan Wang](https://www.bigscity.com/jingyuan-wang/). He received his B.S from Beihang University in 2019. -->
+
+Jiahao Ji received his Ph.D. degree from the School of Computer Science and Engineering at Beihang University in 2025, supervised by Prof. [Jingyuan Wang](https://www.bigscity.com/jingyuan-wang/).
+He received his B.E. degree from the School of Computer Science and Engineering at Beihang University in 2019.
 
 From February 2023 to January 2024, he was a visiting scholar at Nanyang Technological University, Singapore, supervised by Prof. [Cheng Long](https://personal.ntu.edu.sg/c.long/index.html).
-From March 2021 to January 2023, he participated in the joint doctoral training program of JD Intelligent Cities Research, supervised by Prof. [Yu Zheng](http://urban-computing.com/yuzheng) and Dr. [Junbo Zhang](https://zhangjunbo.org/).  
+From March 2021 to January 2023, he was a research intern in JD Intelligent Cities Research, supervised by Prof. [Yu Zheng](http://urban-computing.com/yuzheng) and Dr. [Junbo Zhang](https://zhangjunbo.org/). 
+<!-- From March 2021 to January 2023, he participated in the joint doctoral training program of JD Intelligent Cities Research, supervised by Prof. [Yu Zheng](http://urban-computing.com/yuzheng) and Dr. [Junbo Zhang](https://zhangjunbo.org/).   -->
 
 <!-- He is currently seeking for job opportunities. If you are interested in his research, please feel free to <u><a href="/contact">contact him</a></u>. -->
+
+<!-- Jiahao Ji is currently a researcher with Meituan, Beijing, China. He received his Ph.D. and B.E. degrees from the School of Computer Science and Engineering, Beihang University, in 2025 and 2019, respectively. He was a visiting scholar with the School of Computer Science and Engineering, Nanyang Technological University (NTU), Singapore, from Feb. 2023 to Feb. 2024. He was a research intern in JD Intelligent Cities Research, supervised by Prof. Yu Zheng and Dr. Junbo Zhang, from Mar. 2021 to Jan. 2023. His general area of research is spatiotemporal data mining, interpretable machine learning, and urban computing. He was awarded the China National Scholarship in 2023, and the China MIIT Innovation and Entrepreneurship Scholarship in 2019. He won the First Prize of the ASC Student Supercomputer Challenge in 2018. -->
 
 ## Research Interests
 
