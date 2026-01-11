@@ -1,0 +1,7 @@
+@inproceedings{ji2025bid2x,
+  title={{Bid2X: Revealing} Dynamics of Bidding Environment in Online Advertising from A Foundation Model Lens},
+  author={Ji, Jiahao and Wang, Tianyu and Li, Yeshu and Huo, Yusen and Zhang, Zhilin and Yu, Chuan and Xu, Jian and Zheng, Bo},
+  booktitle={Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 2},
+  pages={4543--4554},
+  year={2025}
+}

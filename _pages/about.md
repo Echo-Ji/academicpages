@@ -30,6 +30,8 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Recent News
 
+* [12/2025] One paper about decomposition prediction is accepted by IEEE TPAMI.
+
 * [06/2025] I was recognized as an [Excellent Reviewer for KDD](https://kdd2025.kdd.org/research-track-program-committee/#august_cycle).
 
 * [11/2024] [One paper](https://arxiv.org/abs/2502.10038) about LLM enhanced POI representation learning is accepted by AAAI 2025.
@@ -91,7 +93,7 @@ AAAI Conference on Artificial Intelligence\
 
 ## Honors and Awards
 
-
+* Outstanding Graduate of Beijing: 2025
 * [Beihang Top-10 PhD Students Award](https://mp.weixin.qq.com/s/GNn_uyn2i0V9zuKqGeqaDA): 2024
 * Beihang Youth May Fourth Medal Nomination (11 people in Beihang U.): 2024
 * Discovery Scholarship (2 in SCSE of Beihang U.): 2024
