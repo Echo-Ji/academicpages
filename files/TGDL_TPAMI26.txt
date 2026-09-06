@@ -1,0 +1,9 @@
+@article{ji2026how,
+ author={Ji, Jiahao and Wang, Jingyuan and Mou, Yu and Long, Cheng and Wu, Junjie},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
+  title={How to Break It Down for Building It Up? Theory-Guided Graph Decomposition Learning for Spatiotemporal Traffic Prediction}, 
+  year={2026},
+  volume={48},
+  number={5},
+  pages={5442-5459},
+}

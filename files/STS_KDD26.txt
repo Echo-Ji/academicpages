@@ -1,0 +1,9 @@
+@inproceedings{zhang2026see,
+author = {Zhang, Wentao and Wang, Jingyuan and Zhou, Zetong and Ji, Jiahao and Wu, Junjie},
+title = {See to Solve: A Geometry-Aware Vision-Language Agent for Real-World Routing Problem},
+year = {2026},
+booktitle = {Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+pages = {12904–12915},
+numpages = {12},
+series = {KDD '26}
+}

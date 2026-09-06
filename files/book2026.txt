@@ -1,0 +1,8 @@
+@book{wang2026mechanism,
+  title={Mechanism-Driven Explainable Urban Spatio-Temporal Prediction},
+  author={Wang, J. and Ji, J.},
+  isbn={9789819206629},
+  series={Big Data Management},
+  year={2026},
+  publisher={Springer Nature Singapore}
+}

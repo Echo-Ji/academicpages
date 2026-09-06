@@ -1,0 +1,7 @@
+@inproceedings{xu2024advancing,
+  title={Advancing Re-Ranking with Multimodal Fusion and Target-Oriented Auxiliary Tasks in E-Commerce Search}, 
+      author={Enqiang Xu and Xinhui Li and Zhigong Zhou and Jiahao Ji and Jinyuan Zhao and Dadong Miao and Songlin Wang and Lin Liu and Sulong Xu},
+  booktitle={Proceedings of the 33rd ACM International Conference on Information and Knowledge Management},
+  pages={5007--5014},
+  year={2024}
+}

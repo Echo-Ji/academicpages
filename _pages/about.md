@@ -30,15 +30,19 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Recent News
 
-* [12/2025] One paper about decomposition prediction is accepted by IEEE TPAMI.
+* [09/2026] The book "Mechanism-Driven Explainable Urban Spatio-Temporal Prediction" is published by Springer.
 
-* [06/2025] I was recognized as an [Excellent Reviewer for KDD](https://kdd2025.kdd.org/research-track-program-committee/#august_cycle).
+* [05/2026] One paper about agent framework for routing problems is accepted by KDD 2026.
 
-* [11/2024] [One paper](https://arxiv.org/abs/2502.10038) about LLM enhanced POI representation learning is accepted by AAAI 2025.
+* [12/2025] One paper about decomposition prediction is accepted by IEEE TPAMI (IF=20.8).
 
-* [11/2024] [One paper](https://arxiv.org/abs/2311.12472) about causal inference and spatio-temporal prediction is accepted by KDD 2025.
+* [06/2025] He was recognized as an [Excellent Reviewer for KDD](https://kdd2025.kdd.org/research-track-program-committee/#august_cycle).
 
-* [06/2024] I obtain the [Beihang Top-10 PhD Students Award](https://mp.weixin.qq.com/s/GNn_uyn2i0V9zuKqGeqaDA).
+<!-- * [11/2024] [One paper](https://arxiv.org/abs/2502.10038) about LLM enhanced POI representation learning is accepted by AAAI 2025. -->
+
+<!-- * [11/2024] [One paper](https://arxiv.org/abs/2311.12472) about causal inference and spatio-temporal prediction is accepted by KDD 2025. -->
+
+<!-- * [06/2024] He obtained the [Beihang Top-10 PhD Students Award](https://mp.weixin.qq.com/s/GNn_uyn2i0V9zuKqGeqaDA). -->
 
 <!-- * [05/2024] I was nominated for the Beihang Youth May Fourth Medal. -->
 
@@ -59,18 +63,23 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 ## Featured Publications [<u><a href="https://echo-ji.github.io/academicpages/publications">See more</a></u>]
 
+* **[TPAMI'26]** How to Break It Down for Building It Up? Theory-Guided Graph Decomposition Learning for Spatiotemporal Traffic Prediction (IF=20.8, **CCF A**)\
+**J. Ji**, J. Wang, Y. Mou, C. Long, and J. Wu\
+IEEE Transactions on Pattern Analysis and Machine Intelligence\
+[[pdf](https://echo-ji.github.io/academicpages/files/TGDL_TPAMI26.pdf)][[bib](https://echo-ji.github.io/academicpages/files/TGDL_TPAMI26.txt)][[web](https://ieeexplore.ieee.org/document/11342291)]
+
 * **[KDD'25]** Seeing the Unseen: Learning Basis Confounder Representations for Robust Traffic Prediction (Acceptance Ratio=19%, **CCF A**)\
 **J. Ji**, W. Zhang, J. Wang, and C. Huang\
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining\
 [[pdf](https://echo-ji.github.io/academicpages/files/STEVE_KDD25.pdf)][[code](https://github.com/bigscity/STEVE_CODE)][[bib](https://echo-ji.github.io/academicpages/files/STEVE_KDD25.txt)][[web](https://arxiv.org/abs/2311.12472)]
 
 * **[AAAI'23]** Spatio-Temporal Self-Supervised Learning for Traffic Flow Prediction (Acceptance Ratio=19.6%, **CCF A**)\
-**J. Ji**, J. Wang, C. Huang, J. Wu, B. Xu, Z. Wu, J. Zhang and Y. Zheng\
+**J. Ji**, J. Wang, C. Huang, J. Wu, B. Xu, Z. Wu, J. Zhang, and Y. Zheng\
 AAAI Conference on Artificial Intelligence\
 [[pdf](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.pdf)][[code](https://github.com/Echo-Ji/ST-SSL)][[bib](https://echo-ji.github.io/academicpages/files/STSSL_AAAI23.txt)][[media](https://mp.weixin.qq.com/s/rMNsqYyfoeoysZxeVabh4w)][[web](https://ojs.aaai.org/index.php/AAAI/article/view/25555)]
 
-* **[TKDE'22]** Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields (IF=9.235, **CCF A**)\
-J. Wang, **J. Ji**, Z. Jiang, L. Sun\
+* **[TKDE'23]** Traffic Flow Prediction Based on Spatiotemporal Potential Energy Fields (IF=8.9, **CCF A**)\
+J. Wang, **J. Ji**, Z. Jiang, and L. Sun\
 IEEE Transactions on Knowledge and Data Engineering\
 [[pdf](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.pdf)][[bib](https://echo-ji.github.io/academicpages/files/STPEF_plus_TKDE22.txt)][[web](https://ieeexplore.ieee.org/document/9944966)]
 

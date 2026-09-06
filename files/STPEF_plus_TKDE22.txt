@@ -1,9 +1,9 @@
-@article{wang2022traffic,
+@article{wang2023traffic,
   title={Traffic flow prediction based on spatiotemporal potential energy fields},
   author={Wang, Jingyuan and Ji, Jiahao and Jiang, Zhe and Sun, Leilei},
   journal={IEEE Transactions on Knowledge and Data Engineering},
   volume={35},
   number={9},
   pages={9073--9087},
-  year={2022}
+  year={2023}
 }
