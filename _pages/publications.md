@@ -18,7 +18,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence\
 [[pdf](https://echo-ji.github.io/academicpages/files/TGDL_TPAMI26.pdf)][[bib](https://echo-ji.github.io/academicpages/files/TGDL_TPAMI26.txt)][[web](https://ieeexplore.ieee.org/document/11342291)] -->
 
 <!-- J. Wang, J. Ji. . , 2026 -->
-1. **[KDD'26]** Mechanism-Driven Explainable Urban Spatio-Temporal Prediction\
+1. **[Book]** Mechanism-Driven Explainable Urban Spatio-Temporal Prediction\
 J. Wang, and **J. Ji**\
 Springer Nature Singapore\
 [[bib](https://echo-ji.github.io/academicpages/files/book2026.txt)][[web](https://link.springer.com/book/10.1007/978-981-92-0662-9)]
