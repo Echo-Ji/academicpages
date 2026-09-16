@@ -23,6 +23,11 @@ J. Wang, and **J. Ji**\
 Springer Nature Singapore\
 [[bib](https://echo-ji.github.io/academicpages/files/book2026.txt)][[web](https://link.springer.com/book/10.1007/978-981-92-0662-9)]
 
+1. **[IJCAI'26]** HieraMix: A Hierarchical MLP-Mixer for Large-Scale Traffic Forecasting\
+Y. Wang, X. Yu, J. Wang, **J. Ji**, and C. Li\
+International Joint Conference on Artificial Intelligence\
+[[pdf](https://arxiv.org/pdf/2512.07854)][[bib](https://echo-ji.github.io/academicpages/files/HieraMix_IJCAI26.txt)][[web](https://arxiv.org/abs/2512.07854)]
+
 1. **[KDD'26]** See to Solve: A Geometry-Aware Vision-Language Agent for Real-World Routing Problem (Acceptance Ratio=18.5%, **CCF A**)\
 W. Zhang, J. Wang, Z. Zhou, **J. Ji\***, and J. Wu\
 ACM SIGKDD International Conference on Knowledge Discovery and Data Mining\
@@ -32,6 +37,11 @@ ACM SIGKDD International Conference on Knowledge Discovery and Data Mining\
 **J. Ji**, J. Wang, Y. Mou, C. Long, and J. Wu\
 IEEE Transactions on Pattern Analysis and Machine Intelligence\
 [[pdf](https://echo-ji.github.io/academicpages/files/TGDL_TPAMI26.pdf)][[code](https://github.com/bigscity/TGDL)][[bib](https://echo-ji.github.io/academicpages/files/TGDL_TPAMI26.txt)][[web](https://ieeexplore.ieee.org/document/11342291)]
+
+1. **[ICLR'26]** OrthoSolver: A Neural Proper Orthogonal Decomposition Solver For PDEs\
+Y. Pang, J. Wang, **J. Ji**, and F. Mu\
+International Conference on Learning Representations\
+[[pdf](https://openreview.net/pdf?id=9OOmlDrEfn)][[code](https://github.com/Huaer02/OrthoSolver)][[bib](https://echo-ji.github.io/academicpages/files/OrthoSolver_ICLR26.txt)][[web](https://mp.weixin.qq.com/s/1hHQi4s3NcTQYyyzqCfZLQ)]
 
 ### <u>In the year of 2025</u>
 

@@ -1,0 +1,7 @@
+@inproceedings{wang2026hieramix,
+  title={HieraMix: A Hierarchical {MLP-Mixer} for Large-Scale Traffic Forecasting},
+  author={Wang, Yongyao and Yu, Xie and Wang, Jingyuan and Ji, Jiahao and Li, Chao},
+  booktitle={International Joint Conference on Artificial Intelligence},
+  year={2026},
+  url={https://arxiv.org/abs/2512.07854}
+}

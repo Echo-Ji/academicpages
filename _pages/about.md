@@ -32,11 +32,17 @@ His research interests include **spatio-temporal data mining**, **interpretable 
 
 * [09/2026] The book "Mechanism-Driven Explainable Urban Spatio-Temporal Prediction" is published by Springer.
 
+* [08/2026] One paper is accepted by IEEE TKDE.
+
+* [05/2026] One paper about large-scale traffic forecasting is accepted by IJCAI 2026.
+
 * [05/2026] One paper about agent framework for routing problems is accepted by KDD 2026.
 
-* [12/2025] One paper about decomposition prediction is accepted by IEEE TPAMI (IF=20.8).
+* [02/2026] One paper about neural PDE solvers is accepted by ICLR 2026.
 
-* [06/2025] He was recognized as an [Excellent Reviewer for KDD](https://kdd2025.kdd.org/research-track-program-committee/#august_cycle).
+<!-- * [12/2025] One paper about decomposition prediction is accepted by IEEE TPAMI (IF=20.8). -->
+
+<!-- * [06/2025] He was recognized as an [Excellent Reviewer for KDD](https://kdd2025.kdd.org/research-track-program-committee/#august_cycle). -->
 
 <!-- * [11/2024] [One paper](https://arxiv.org/abs/2502.10038) about LLM enhanced POI representation learning is accepted by AAAI 2025. -->
 
